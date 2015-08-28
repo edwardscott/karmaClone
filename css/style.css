@@ -11,12 +11,12 @@ ol, ul {
  * Start of Custom Styles
  */
 body {
-    background-color: LightGray;
+    /**  background-color: LightGray;  */
     font-family: 'Roboto', sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 div {
-    border: 1px solid Chocolate;
+    /**  border: 1px solid Chocolate;  */
 }
 .content {
     padding: 0 0.938rem;
